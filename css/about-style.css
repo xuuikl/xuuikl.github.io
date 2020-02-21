@@ -500,6 +500,10 @@ section.aboutme {
     font-size: 16px;
   }
 
+  .picture {
+    grid-column: 1 / span 4;
+  }
+
   /* READING LIST:MOBILE */
 
   .books {
